@@ -21,15 +21,16 @@ These are two simple Sketches to demonstrate how to control two DC motors using 
 # Parts Needed
 🛒 Arduino Uno ▶ http://educ8s.tv/part/ArduinoUno
 
-🛒 ST7789 Display ▶ http://educ8s.tv/part/st7789
+🛒 L298N Driver ▶ http://educ8s.tv/part/L298N
 
-🛒 DS18B20 Temperature Sensor ▶ http://educ8s.tv/part/DS18B20
+🛒 2 DC Motors ▶ http://educ8s.tv/part/DCmotors
 
-🛒 Breadboard ▶ http://educ8s.tv/part/SmallBreadboard
+🛒 Battery Holder ▶ http://educ8s.tv/part/5AAHolder
 
 🛒 Wires ▶ http://educ8s.tv/part/Wires
 
 💖 Full disclosure: All of the links above are affiliate links. I get a small percentage of each sale they generate. Thank you for your support!
+
 
 # Schematic Diagram
 
