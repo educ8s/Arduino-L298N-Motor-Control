@@ -1,6 +1,6 @@
 # Arduino-L298N-Motor-Control
 
-These are two simple Sketches to demonstrate how to control two DC motors using Arduino and L298N Board.
+These are two simple Sketches to demonstrate how to control two DC motors using Arduino and an L298N Board.
 
 <p align="center">
   <img src="demo.jpg" alt="L298N Tutorial" width="1280">
